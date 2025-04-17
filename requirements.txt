@@ -1,0 +1,13 @@
+langchain-openai
+fastapi 
+pydantic
+browser-use
+python-dotenv
+uvicorn
+pytest-playwright
+pandas
+overrides
+cachetools
+tiktoken
+langchain_community
+langchain-cli
