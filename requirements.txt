@@ -11,3 +11,7 @@ cachetools
 tiktoken
 langchain_community
 langchain-cli
+pandas
+numpy
+duckduckgo-search
+pydantic 
